@@ -29,3 +29,4 @@ class Site:
             parser.parse(path, self.source, self.dest)
         else:
             print("Not Implemented")
+            
